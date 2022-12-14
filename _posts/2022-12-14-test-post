@@ -1,0 +1,15 @@
+---
+layout: post
+title: test post.
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: []
+permalink: 'post/testpost/'
+---
+
+아이가 태어나기 전에는 고양이를 제일 좋아했습니다.
+
+## Test Post
+테스트 글 작성
+이거 어렵네요
