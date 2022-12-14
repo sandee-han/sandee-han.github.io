@@ -8,7 +8,7 @@ tags: []
 permalink: 'post/testpost/'
 ---
 
-아이가 태어나기 전에는 고양이를 제일 좋아했습니다.
+아아 마이크 테스트
 
 ## Test Post
 테스트 글 작성
